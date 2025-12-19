@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo explorar conceitos fundamentais de **manipulação de dados** utilizando as bibliotecas **NumPy** e **Pandas**, além de gerar visualizações simples com **Matplotlib** e **Seaborn**.
 
+Trata-se de um diário de estudos. Onde incluirei todas as etapas do meu aprendizado.
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -66,4 +68,8 @@ Contribuições são bem-vindas! Para sugerir melhorias:
 - Envie um **pull request**.
 
 ---
+## 👩‍💻 Sobre Mim
+Sou Paula Rayane, Analista de Negócios Sênior e estudante de Engenharia de Dados e Inteligência Artificial, apaixonada por transformar dados em decisões estratégicas.
 
+## 📬 Contato
+🔗 LinkedIn: https://www.linkedin.com/in/paulalamounier/
